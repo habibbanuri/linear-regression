@@ -1,0 +1,138 @@
+NAME,YearsExperience,publication,TeachingEvaluation,salary
+Roman,3,1,3.2,50000
+Alizeb,4,23,3.5,450000
+sana ullah,5,4,5.5,2300000
+habibullah,6,5,6.4,23000
+asad,6,6,2.1,25000
+aqeel,2,6,2.1,23000
+abrar,3,7,3.1,78000
+junaid ,3,8,4.5,76000
+hamza,2,9,4.7,56000
+sahil ,1,12,5,7600
+sahir ,4,1,4.5,34000
+naveed,1,2,4.7,35000
+hameed,1,12,5,50000
+sharjeel,3,12,4.5,450000
+aqeel asad,4,12,4.7,2300000
+mohammad,3,12,5,23000
+ali hamza,4,12,4.5,25000
+shareef,5,12,4.7,23000
+umar,5,1,5,78000
+zohaib,5,23,4.5,76000
+nouman,3,4,4.7,56000
+huzaifa,4,5,5,7600
+kamran,5,6,4.5,34000
+tahir,6,6,4.7,35000
+umar,6,7,5,50000
+naveen,2,8,4.5,450000
+shaheen,3,9,4.7,2300000
+sarfaraz,3,12,5,23000
+abdullah,2,1,4.5,25000
+razaq,1,2,4.7,23000
+shomail,4,12,5,78000
+majid,1,12,4.5,76000
+khesham,1,12,4.7,56000
+abubakar,3,12,5,7600
+hamza,4,12,4.5,34000
+Roman,3,12,4.7,35000
+Alizeb,4,1,5,50000
+sana ullah,5,23,4.5,450000
+habibullah,5,4,4.7,2300000
+asad,5,5,5,23000
+aqeel,3,6,4.5,25000
+abrar,4,6,4.7,23000
+junaid ,5,7,5,78000
+hamza,6,8,4.5,76000
+sahil ,6,9,4.7,56000
+sahir ,2,12,5,7600
+naveed,3,1,4.5,34000
+hameed,3,2,4.7,35000
+sharjeel,2,12,5,50000
+aqeel asad,1,12,4.5,450000
+mohammad,4,12,4.7,2300000
+ali hamza,1,12,5,23000
+shareef,1,12,4.5,25000
+umar,3,12,4.7,23000
+zohaib,4,1,5,78000
+nouman,3,23,4.5,76000
+huzaifa,4,4,4.7,56000
+kamran,5,5,5,7600
+tahir,5,6,4.5,34000
+umar,5,6,4.7,35000
+naveen,3,7,5,50000
+shaheen,4,8,4.5,450000
+sarfaraz,5,9,4.7,2300000
+abdullah,6,12,5,23000
+razaq,6,1,4.5,25000
+shomail,2,2,4.7,23000
+majid,3,12,5,78000
+khesham,3,12,4.5,76000
+abubakar,2,12,4.7,56000
+Alizeb,1,12,5,7600
+sana ullah,4,12,4.5,34000
+habibullah,1,12,4.7,35000
+asad,1,1,5,50000
+aqeel,3,23,4.5,450000
+abrar,4,4,4.7,2300000
+junaid ,3,5,5,23000
+hamza,4,6,4.5,25000
+sahil ,5,6,4.7,23000
+sahir ,5,7,5,78000
+naveed,5,8,4.5,76000
+hameed,3,9,4.7,56000
+sharjeel,4,12,5,7600
+aqeel asad,5,1,4.5,34000
+mohammad,6,2,4.7,35000
+ali hamza,6,12,5,50000
+shareef,2,12,4.5,450000
+umar,3,12,4.7,2300000
+zohaib,3,12,5,23000
+nouman,2,12,4.5,25000
+huzaifa,1,12,4.7,23000
+kamran,4,1,5,78000
+tahir,1,23,4.5,76000
+umar,1,4,4.7,56000
+naveen,3,5,5,7600
+shaheen,4,6,4.5,34000
+sarfaraz,3,6,4.7,35000
+abdullah,4,7,5,50000
+razaq,5,8,4.5,450000
+shomail,5,9,4.7,2300000
+majid,5,12,5,23000
+khesham,3,1,4.5,25000
+abubakar,4,2,4.7,23000
+hamza,5,12,5,78000
+Roman,6,12,4.5,76000
+Alizeb,6,12,4.7,56000
+sana ullah,2,12,5,7600
+habibullah,3,12,4.5,34000
+asad,3,12,4.7,35000
+aqeel,2,1,5,50000
+abrar,1,23,4.5,450000
+junaid ,4,4,4.7,2300000
+hamza,1,5,5,23000
+sahil ,1,6,4.5,25000
+sahir ,3,6,4.7,23000
+naveed,4,7,5,78000
+hameed,3,8,4.5,76000
+sharjeel,4,9,4.7,56000
+aqeel asad,5,12,5,7600
+mohammad,5,1,4.5,34000
+ali hamza,5,2,4.7,35000
+shareef,3,12,5,50000
+umar,4,12,4.5,450000
+zohaib,5,12,4.7,2300000
+nouman,6,12,5,23000
+huzaifa,6,12,4.5,25000
+kamran,2,12,4.7,23000
+tahir,3,1,5,78000
+umar,3,23,4.5,76000
+naveen,2,4,4.7,56000
+shaheen,1,5,5,7600
+sarfaraz,4,6,4.5,34000
+abdullah,1,6,4.7,35000
+razaq,1,7,5,50000
+shomail,3,8,2,450000
+majid,4,9,3,2300000
+khesham,3,12,4,23000
+abubakar,4,1,5,25000
